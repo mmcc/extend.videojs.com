@@ -1,0 +1,21 @@
+{
+  "name": "extend.videojs.com",
+  "version": "0.0.1",
+  "description": "Site for VJS extensions (plugins and skins)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "videojs"
+  ],
+  "author": "Matthew McClure <matt@mmcc.io>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "date-utils": "^1.2.16",
+    "ent": "^2.1.1",
+    "lodash": "^2.4.1",
+    "request": "^2.51.0"
+  }
+}
